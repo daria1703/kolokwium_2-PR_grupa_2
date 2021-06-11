@@ -1,6 +1,7 @@
 import './App.css';
 import { Route, Switch, Redirect } from "react-router-dom";
 import Posts from "./components/posts";
+import 'bootstrap/dist/cc/bootstrap.min.css'
 
 function App() {
 
